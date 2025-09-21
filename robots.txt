@@ -1,0 +1,1 @@
+Sitemap: https://future157.github.io/jekyll-theme-yat/sitemap.xml
